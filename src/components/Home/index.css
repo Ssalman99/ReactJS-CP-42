@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.home-container {
+  height: 100vh;
+  background-size: cover;
+  background-color: #ffffff;
+  font-family: Roboto;
+}
+.home {
+  height: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-light {
+  background-color: #ffffff;
+}
+
+.bg-dark {
+  background-color: #000000;
+}
+
+.home-img {
+  height: 200px;
+  width: 200px;
+}

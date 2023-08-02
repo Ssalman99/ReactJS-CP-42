@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.nav-container {
+  height: 10%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.nav-bg-light {
+  background-color: #dcdcdc;
+}
+
+.text-light {
+  color: #171f46;
+}
+
+.text-dark {
+  color: #ffffff;
+}
+
+.nav-bg-dark {
+  background-color: #333333;
+}
+
+.list-item {
+  margin-left: 20px;
+  font-weight: bolder;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav-logo {
+  height: 90%;
+}
+
+.nav-img {
+  height: 90%;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+}
